@@ -1,0 +1,27 @@
+{
+  "name": "cefet-web-geiser",
+  "version": "1.0.0",
+  "description": "Páginas dinâmicas usando Node.js e Express.js para 'Um mostruário de algumas pessoas que ficam fritando seus PCs', chamado Geiser",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taisrs/cefet-web-geiser.git"
+  },
+  "author": "Taís Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taisrs/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/taisrs/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "underscore": "^1.9.0"
+  }
+}
